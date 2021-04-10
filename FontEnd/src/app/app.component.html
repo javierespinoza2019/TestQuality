@@ -1,0 +1,84 @@
+<div class="container">
+  <div class="row" style="margin-top: 30px;">
+    <h3>ADMINISTRADOR DE ARCHIVOS</h3>
+  </div>
+  <div class="row">
+    <div class="col-4">      
+    </div>
+    <div class="col-4">      
+    </div>
+    <div class="col-4">    
+      <div class="d-flex flex-row-reverse">
+        <button type="submit" class="btn btn-dark" style="margin-top: 20px; margin-bottom: 10px;" data-toggle="modal" data-target="#fileManagerModal">Cargar Archivo</button>
+      </div>     
+    </div>
+  </div>
+  <div class="row">
+  <table class="table table-hover">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Nombre de Archivo</th>
+        <th scope="col">URI</th>
+        <th scope="col">Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngIf="fileList && fileList.length <= 0">
+        <td class="text-center" colspan="5">
+          <span style="font-weight :bold">Sin datos que mostrar</span>
+        </td>
+      </tr>
+      <tr *ngFor="let c of fileList; index as i">
+        <td style="width:10%">
+          {{ i+1 }}
+        </td> 
+        <td style="width:30%">
+          {{ c.fileName }}
+        </td>       
+        <td style="width:50%">
+          {{ c.uri }}
+        </td>
+        <td style="width:10%">
+          <i class="fas fa-download" style="margin-left: 10px;" (click)="downloadFile(c.fileName)"></i>
+          <i class="fas fa-trash-alt" style="margin-left: 10px;" (click)="deleteFile(c.fileName)"></i>         
+        </td>
+      </tr>
+    </tbody>
+  </table>  
+</div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="fileManagerModal" tabindex="-1" role="dialog" aria-labelledby="fileManagerModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="fileManagerModalTitle">Carga de Archivos</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="container">
+          <div class="row">
+            <form>
+              <div class="input-group mb-3">
+                <div class="custom-file">
+                  <input type="file" class="custom-file-input" (change)="handleFileInput($event.target.files)" style="height: 35px;" id="inputCustomFile">
+                  <label class="custom-file-label" for="inputCustomFile">{{!fileSelected || fileSelected.length == 0 ? 'Seleccione archivo' : fileSelected }}</label>
+                </div>
+                <div class="input-group-append">
+                  <span class="input-group-text"  style="height: 35px; margin-left: 10px;" (click)="loadFile()">Subir Archivo</span>
+                </div>
+              </div>   
+            </form>                     
+          </div>
+        </div>        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\bin\Debug\netstandard2.0\FileManager.Data.deps.json
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\bin\Debug\netstandard2.0\FileManager.Data.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\bin\Debug\netstandard2.0\FileManager.Entities.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\bin\Debug\netstandard2.0\FileManager.Framework.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\bin\Debug\netstandard2.0\FileManager.Framework.pdb
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\bin\Debug\netstandard2.0\FileManager.Entities.pdb
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\obj\Debug\netstandard2.0\FileManager.Data.csprojAssemblyReference.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\obj\Debug\netstandard2.0\FileManager.Data.AssemblyInfoInputs.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\obj\Debug\netstandard2.0\FileManager.Data.AssemblyInfo.cs
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Data\obj\Debug\netstandard2.0\FileManager.Data.csproj.CopyComplete

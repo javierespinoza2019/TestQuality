@@ -1,0 +1,8 @@
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Entities\bin\Debug\netstandard2.0\FileManager.Entities.deps.json
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Entities\bin\Debug\netstandard2.0\FileManager.Entities.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Entities\bin\Debug\netstandard2.0\FileManager.Entities.pdb
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Entities\obj\Debug\netstandard2.0\FileManager.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Entities\obj\Debug\netstandard2.0\FileManager.Entities.AssemblyInfo.cs
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Entities\obj\Debug\netstandard2.0\FileManager.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Entities\obj\Debug\netstandard2.0\FileManager.Entities.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Entities\obj\Debug\netstandard2.0\FileManager.Entities.pdb

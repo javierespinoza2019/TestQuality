@@ -1,0 +1,14 @@
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\bin\Debug\netstandard2.0\FileManager.Business.deps.json
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\bin\Debug\netstandard2.0\FileManager.Business.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\bin\Debug\netstandard2.0\FileManager.Business.pdb
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\bin\Debug\netstandard2.0\FileManager.Entities.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\bin\Debug\netstandard2.0\FileManager.Framework.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\bin\Debug\netstandard2.0\FileManager.Framework.pdb
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\bin\Debug\netstandard2.0\FileManager.Entities.pdb
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\obj\Debug\netstandard2.0\FileManager.Business.csprojAssemblyReference.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\obj\Debug\netstandard2.0\FileManager.Business.AssemblyInfoInputs.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\obj\Debug\netstandard2.0\FileManager.Business.AssemblyInfo.cs
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\obj\Debug\netstandard2.0\FileManager.Business.csproj.CoreCompileInputs.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\obj\Debug\netstandard2.0\FileManager.Business.csproj.CopyComplete
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\obj\Debug\netstandard2.0\FileManager.Business.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Business\obj\Debug\netstandard2.0\FileManager.Business.pdb

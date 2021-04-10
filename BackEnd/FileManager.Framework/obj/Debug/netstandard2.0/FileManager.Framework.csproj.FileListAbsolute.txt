@@ -1,0 +1,14 @@
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\bin\Debug\netstandard2.0\FileManager.Framework.deps.json
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\bin\Debug\netstandard2.0\FileManager.Framework.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\bin\Debug\netstandard2.0\FileManager.Framework.pdb
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\bin\Debug\netstandard2.0\FileManager.Entities.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\bin\Debug\netstandard2.0\FileManager.Entities.pdb
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.csprojAssemblyReference.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.Common.Resources.MessageResource.resources
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.csproj.GenerateResource.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.AssemblyInfoInputs.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.AssemblyInfo.cs
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.csproj.CoreCompileInputs.cache
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.csproj.CopyComplete
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.dll
+C:\Proyectos\demos\TestFiles\BackEnd\FileManager.Framework\obj\Debug\netstandard2.0\FileManager.Framework.pdb
